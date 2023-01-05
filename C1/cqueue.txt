@@ -1,0 +1,82 @@
+1:Enqueue
+2:Dequeue
+3:Display
+4:Exit
+
+Enter your choice: 1
+
+Enter the element to be inserted: 1
+
+Queue elements are:1	
+
+1:Enqueue
+2:Dequeue
+3:Display
+4:Exit
+
+Enter your choice: 1
+
+Enter the element to be inserted: 2
+
+Queue elements are:1	2	
+
+1:Enqueue
+2:Dequeue
+3:Display
+4:Exit
+
+Enter your choice: 1
+
+Enter the element to be inserted: 3
+
+Queue elements are:1	2	3	
+
+1:Enqueue
+2:Dequeue
+3:Display
+4:Exit
+
+Enter your choice: 1
+
+Enter the element to be inserted: 4
+
+Queue elements are:1	2	3	4	
+
+1:Enqueue
+2:Dequeue
+3:Display
+4:Exit
+
+Enter your choice: 1
+
+Enter the element to be inserted: 5
+
+Queue elements are:1	2	3	4	5	
+
+1:Enqueue
+2:Dequeue
+3:Display
+4:Exit
+
+Enter your choice: 2
+
+1 is deleted
+Queue elements are:2	3	4	5	
+
+1:Enqueue
+2:Dequeue
+3:Display
+4:Exit
+
+Enter your choice: 1
+
+Enter the element to be inserted: 6
+
+Queue elements are:2	3	4	5	6	
+
+1:Enqueue
+2:Dequeue
+3:Display
+4:Exit
+
+Enter your choice:4

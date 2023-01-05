@@ -1,0 +1,19 @@
+Enter no. of terms in the first polynomial : 3
+Enter the coefficient : 2
+Enter the exponent : 3
+Enter the coefficient : 1
+Enter the exponent : 2
+Enter the coefficient : 4
+Enter the exponent : 0
+Enter no. of terms in the second polynomial : 2
+Enter the coefficient : 2
+Enter the exponent : 2
+Enter the coefficient : 4
+Enter the exponent : 1
+The first polynomial is 
+2x^3 + 1x^2 + 4x^0
+The second polynomial is 
+2x^2 + 4x^1
+The product of the polynomials is 
+4x^5 + 10x^4 + 4x^3 + 8x^2 + 16x^1
+

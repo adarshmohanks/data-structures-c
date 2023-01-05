@@ -1,0 +1,137 @@
+Operations 
+ 1. Insert at beginning 
+ 2. Insert at end 
+ 3. Insert at specific position 
+ 4. Delete from beginning 
+ 5. Delete from end 
+ 6. Delete from a specific position 
+ 7. Display 
+ 8. Exit
+Enter your operation 1
+Enter the data to be inserted 2
+
+Elements are 2 
+Operations 
+ 1. Insert at beginning 
+ 2. Insert at end 
+ 3. Insert at specific position 
+ 4. Delete from beginning 
+ 5. Delete from end 
+ 6. Delete from a specific position 
+ 7. Display 
+ 8. Exit
+Enter your operation 1
+Enter the data to be inserted 3
+
+Elements are 3 2 
+Operations 
+ 1. Insert at beginning 
+ 2. Insert at end 
+ 3. Insert at specific position 
+ 4. Delete from beginning 
+ 5. Delete from end 
+ 6. Delete from a specific position 
+ 7. Display 
+ 8. Exit
+Enter your operation 2
+Enter the data to be inserted 3
+
+Elements are 3 2 3 
+Operations 
+ 1. Insert at beginning 
+ 2. Insert at end 
+ 3. Insert at specific position 
+ 4. Delete from beginning 
+ 5. Delete from end 
+ 6. Delete from a specific position 
+ 7. Display 
+ 8. Exit
+Enter your operation 3
+Enter the position 1
+Enter the data to be inserted 5
+
+Elements are 5 3 2 3 
+Operations 
+ 1. Insert at beginning 
+ 2. Insert at end 
+ 3. Insert at specific position 
+ 4. Delete from beginning 
+ 5. Delete from end 
+ 6. Delete from a specific position 
+ 7. Display 
+ 8. Exit
+Enter your operation 3
+Enter the position 2
+Enter the data to be inserted 6
+
+Elements are 5 6 3 2 3 
+Operations 
+ 1. Insert at beginning 
+ 2. Insert at end 
+ 3. Insert at specific position 
+ 4. Delete from beginning 
+ 5. Delete from end 
+ 6. Delete from a specific position 
+ 7. Display 
+ 8. Exit
+Enter your operation 6
+Enter the position 3
+Deleted item is 3 
+Operations 
+ 1. Insert at beginning 
+ 2. Insert at end 
+ 3. Insert at specific position 
+ 4. Delete from beginning 
+ 5. Delete from end 
+ 6. Delete from a specific position 
+ 7. Display 
+ 8. Exit
+Enter your operation 7
+
+Elements are 5 6 2 3 
+Operations 
+ 1. Insert at beginning 
+ 2. Insert at end 
+ 3. Insert at specific position 
+ 4. Delete from beginning 
+ 5. Delete from end 
+ 6. Delete from a specific position 
+ 7. Display 
+ 8. Exit
+Enter your operation 4
+Deleted item is 5 
+Operations 
+ 1. Insert at beginning 
+ 2. Insert at end 
+ 3. Insert at specific position 
+ 4. Delete from beginning 
+ 5. Delete from end 
+ 6. Delete from a specific position 
+ 7. Display 
+ 8. Exit
+Enter your operation 5
+
+Deleted item is 3
+Operations 
+ 1. Insert at beginning 
+ 2. Insert at end 
+ 3. Insert at specific position 
+ 4. Delete from beginning 
+ 5. Delete from end 
+ 6. Delete from a specific position 
+ 7. Display 
+ 8. Exit
+Enter your operation 7
+
+Elements are 6 2 
+Operations 
+ 1. Insert at beginning 
+ 2. Insert at end 
+ 3. Insert at specific position 
+ 4. Delete from beginning 
+ 5. Delete from end 
+ 6. Delete from a specific position 
+ 7. Display 
+ 8. Exit
+Enter your operation 8
+

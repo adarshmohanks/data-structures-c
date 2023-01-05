@@ -1,0 +1,21 @@
+Enter Data : 12
+Enter Data : 23
+Enter Data : 24
+Enter Data : 45
+Enter Data : 56
+Enter Data : 76
+Enter Data : 78
+Enter Data : 89
+Enter Data : 56
+Enter Data : 34
+chain[0]-->NULL
+chain[1]-->NULL
+chain[2]-->12 -->NULL
+chain[3]-->23 -->NULL
+chain[4]-->24 -->34 -->NULL
+chain[5]-->45 -->NULL
+chain[6]-->56 -->76 -->56 -->NULL
+chain[7]-->NULL
+chain[8]-->78 -->NULL
+chain[9]-->89 -->NULL
+

@@ -1,0 +1,7 @@
+How many elements : 3
+Enter the array elements : 23
+2
+55
+Enter the item to search : 2
+The item found at position: 2
+

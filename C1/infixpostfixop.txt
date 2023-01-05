@@ -1,0 +1,4 @@
+Enter Infix Expression : a+b+c
+
+Postfix Expression =  ab+c+
+

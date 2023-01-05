@@ -1,0 +1,28 @@
+Enter the corresponding data:-
+
+First polynomial:
+
+ Coeffecient: 2
+
+ Exponent: 2
+
+Have more terms? 
+1 for yes and 0 for no: 0
+
+Polynomial expression is: 2X^2
+Second polynomial:
+
+ Coeffecient: 4
+
+ Exponent: 2
+
+Have more terms? 
+1 for yes and 0 for no: 0
+
+The first polynomial
+Polynomial expression is: 2X^2
+The second polynomial
+Polynomial expression is: 4X^2
+The resultant polynomial
+Polynomial expression is: 6X^2
+

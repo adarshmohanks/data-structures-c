@@ -1,0 +1,53 @@
+Implementation of Queue using Linked List
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+
+Enter your choice : 1
+
+Enter the value to insert: 3
+Node is Inserted
+
+The queue is 
+3--->NULL
+
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+
+Enter your choice : 1
+
+Enter the value to insert: 5
+Node is Inserted
+
+The queue is 
+3--->5--->NULL
+
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+
+Enter your choice : 3
+The queue is 
+3--->5--->NULL
+
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+
+Enter your choice : 2
+Popped element is :3
+The queue is 
+5--->NULL
+
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+
+Enter your choice : 4
+

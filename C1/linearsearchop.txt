@@ -1,0 +1,8 @@
+How many elements?5
+Enter array elements: 1
+2
+3
+4
+5
+Enter element to search:6
+Element not found

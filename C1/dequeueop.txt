@@ -1,0 +1,37 @@
+Your program for performing dequeue operations
+1.ADD FRONT 
+2.ADD REAR 
+3.DELETE FRONT 
+4.DELETE REAR 
+5.DISPLAY 
+6.EXIT
+Enter your desired option: 1
+Enter the element to be added to the front: 1
+
+Enter your desired option: 1
+Enter the element to be added to the front: 2
+
+Enter your desired option: 2
+Enter the element to be added to the rear: 3
+
+Enter your desired option: 2
+Enter the element to be added to the rear: 4
+
+Enter your desired option: 5
+
+Elements in a dequeue are: 
+2134	
+Enter your desired option: 3
+
+Enter your desired option: 5
+
+Elements in a dequeue are: 
+134	
+Enter your desired option: 4
+
+Enter your desired option: 5
+
+Elements in a dequeue are: 
+13	
+Enter your desired option: 6
+

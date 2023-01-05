@@ -1,0 +1,45 @@
+1.Add 
+2.Delete 
+3.Display
+4.Exit 
+Enter your choice: 1
+Enter the data: 45
+45
+1.Add 
+2.Delete 
+3.Display
+4.Exit 
+Enter your choice: 1
+Enter the data: 34
+34
+45
+1.Add 
+2.Delete 
+3.Display
+4.Exit 
+Enter your choice: 1
+Enter the data: 32
+32
+34
+45
+1.Add 
+2.Delete 
+3.Display
+4.Exit 
+Enter your choice: 2
+Enter the data to be deleted: 34
+32
+45
+1.Add 
+2.Delete 
+3.Display
+4.Exit 
+Enter your choice: 3
+32
+45
+1.Add 
+2.Delete 
+3.Display
+4.Exit 
+Enter your choice: 4
+

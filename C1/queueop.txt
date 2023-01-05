@@ -1,0 +1,42 @@
+Enter your choice 
+1.Enqueue 
+2.Dequeue 
+3.Display 
+4.Exit 
+1
+Enter element to be added to the queue: 
+9
+
+The queue is: 9
+Enter your choice 
+1.Enqueue 
+2.Dequeue 
+3.Display 
+4.Exit 
+1
+Enter element to be added to the queue: 
+8
+
+The queue is: 98
+Enter your choice 
+1.Enqueue 
+2.Dequeue 
+3.Display 
+4.Exit 
+2
+The popped element is: 9 
+The queue is: 8
+Enter your choice 
+1.Enqueue 
+2.Dequeue 
+3.Display 
+4.Exit 
+3
+
+The queue is: 8
+Enter your choice 
+1.Enqueue 
+2.Dequeue 
+3.Display 
+4.Exit 
+4

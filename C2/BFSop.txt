@@ -1,0 +1,44 @@
+Enter the number of vertices in the graph: 3
+
+Menu:
+1. Create edge
+2. BFS
+3. Exit
+Enter your choice: 1
+Enter the vertices of the edge (u v): 0 1
+
+Menu:
+1. Create edge
+2. BFS
+3. Exit
+Enter your choice: 1
+Enter the vertices of the edge (u v): 0 2
+
+Menu:
+1. Create edge
+2. BFS
+3. Exit
+Enter your choice: 1  
+Enter the vertices of the edge (u v): 0 3
+
+Menu:
+1. Create edge
+2. BFS
+3. Exit
+Enter your choice: 1
+Enter the vertices of the edge (u v): 1 2
+
+Menu:
+1. Create edge
+2. BFS
+3. Exit
+Enter your choice: 2
+Enter the starting vertex for BFS: 0
+0 1 2 
+
+Menu:
+1. Create edge
+2. BFS
+3. Exit
+Enter your choice: 3
+
